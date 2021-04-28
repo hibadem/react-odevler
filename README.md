@@ -20,7 +20,7 @@ Node paketlerini yükleyin
 npm install
 ```
 
-Çalıştırın
+Projeyi çalıştırın
 
 ```linux
 npm run start
