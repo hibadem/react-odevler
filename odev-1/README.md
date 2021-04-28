@@ -1,27 +1,27 @@
-# Recipe Card
+# Kodluyoruz React Ödev-1
+## Installation
 
-Bu projede bir yemek tarifi web sitesindeki her bir yemek için görüntülenecek kartı oluşturuyoruz. Projedeki Card Componenti bir yemek tarifinin detaylarını, yazarını, beğeni sayısını ve kullanıcın tarifi beğenip beğenmediğine dair birtakım bilgileri gösteriyor.
+Öncelikle projeyi clonelayın.
+```bash
+git clone https://github.com/hibadem/react-odevler.git
+```
 
-<p align="center">
-  <img src="recipe-card.png" alt="Recipe Card"/>
-</p>
+## Usage
 
-### Proje Nasıl Çalıştırılır
+Projeyi cloneladıktan sonra açınız.
 
-- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
-- Daha sonra "npm run start" komutu ile uygulama başlatılabilir.
+```linux
+cd react-odevler/odev-1
+```
 
-### Proje Hakkında
+Node paketlerini yükleyin
 
-Card Componenti yemek hakkında bilgileri listelemek için belli başlı "prop"lar almakta.
-Bu "prop"lar sırasıyla, author, recipe, count, liked olarak adlandırılmış durumda.
+```linux
+npm install
+```
 
-### Yapılacaklar
+Projeyi çalıştırın
 
-Card component'i içerisindeki placeholder text olarak verilen yerlerin props olarak alacak şekilde dinamik hale getiriniz. Sonrasında gerekli yerleri App.js içerisinden prop olarak geçerek render edilmesini sağlayınız.
-
-### Not
-
-1. Şu anda food image Card component'i içerisinde import edilerek görüntülenmektedir. Food adlı image'ın da prop olarak geleceği şekilde düzenleyiniz.
-
-2. Örnek olması açısından author prop olarak geçilmiştir. Card component'inde profile adlı `<div>` içerisindeki `<span>` author prop'unun ilk harfini alacak şekilde render edilmiştir.
+```linux
+npm run start
+```
