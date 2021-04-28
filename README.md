@@ -1,2 +1,2 @@
 # react-odevler
-React Tasks - Kodluyoruz
+React Ödevler - Kodluyoruz
