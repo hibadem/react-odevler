@@ -11,7 +11,7 @@ git clone https://github.com/hibadem/react-odevler.git
 Projeyi cloneladıktan sonra açınız.
 
 ```linux
-cd react-odevler/odev-1
+cd react-odevler/odev-2
 ```
 
 Node paketlerini yükleyin
