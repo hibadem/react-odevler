@@ -17,12 +17,3 @@ Menüden eklenen bütün malzemeleri tutabilmek için HamburgerContext içerisin
 
 Not: Malzeme çeşitleri ve fiyatlar ingredients.js içerisindedir.
 
-### Yapılacaklar
-
-Belirtilen yerlerdeki eksikleri tamamlayınız.
-
-1. HamburgerContext içerisinde tanımlanan gerekli state'i value prop'u ile dışarıya aktarınız.
-2. Menu.js component'i içerisinde HamburgerContext'ten gelecek olan gerekli state'i ekleyiniz.
-3. Menu.js component'i içerisinde handleRemoveIngredient adlı fonksiyonun içerisindeki ingredients değişkenini doğru state değeri ile eşitleyiniz.
-4. Burger.js component'i içerisinde HamburgerContext'ten gelecek olan gerekli state'i ekleyiniz.
-5. index.js içerisinde tüm uygulamayı context provider component'i ile sarmalayınız.
