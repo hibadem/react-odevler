@@ -24,7 +24,6 @@ Bu ödevde OMDb API kullanarak film araması yapabilme ve filmleri favorilere ek
 ### Proje Nasıl Çalıştırılır
 
 - Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
-- OMDb API kullanabilmek için bir API key'e ihtiyacımız var. Email adresinizle [buradan](http://www.omdbapi.com/apikey.aspx) alabilirsiniz. API key'i MovieContext component'i içerisinde constant olarak tanımlanmış API_KEY'e atadıktan sonra OMDb API'ı kullanmaya başlayabilirsiniz.
 - Daha sonra "npm run start" komutu ile uygulama başlatılabilir.
 
 ### Proje Hakkında
